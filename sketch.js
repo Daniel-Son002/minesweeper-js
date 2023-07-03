@@ -13,7 +13,7 @@ var cols;
 var rows;
 var w = 20;
 
-var totalBombs = 15;
+var totalBombs = 12;
 
 
 function setup() {
