@@ -66,6 +66,7 @@ function mousePressed() {
 
                 if (grid[i][j].bomb) {
                     gameOver();
+                    window.alert("LOSER!!!");
                 }
             }
         }
